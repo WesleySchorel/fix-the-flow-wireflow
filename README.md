@@ -7,7 +7,7 @@ Micro-interactie die het mogelijk maakt om de toegankelijkheids eisen van de WCA
 De doelgroep van deze micro-interactie zijn de developers van Vervoerregio Amsterdam en de partners van Vervoerregio Amsterdam. De bedoeling van deze website is om aan de hand van een checklist te zien aan hoeveel richtlijnen van de WCAG je website voldoet.
 
 ## User Story
-De userstory die ik heb gekozen voor deze leertaak is: "Als gebruiker wil ik een soort interactieve checklist kunnen bijhouden over de wettelijke toegankelijkheidsrichtlijnen voor mijn eigen website"
+De userstory die ik heb gekozen voor deze deeltaak is: "Als gebruiker wil ik een soort interactieve checklist kunnen bijhouden over de wettelijke toegankelijkheidsrichtlijnen voor mijn eigen website"
 
 ## Wireflow
 ![wire](https://user-images.githubusercontent.com/112857487/213440674-b223460b-d97c-4f08-80c4-23cd8bfc87e2.jpg)
